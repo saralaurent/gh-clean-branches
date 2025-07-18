@@ -15,3 +15,4 @@ echo "gh-clean-branches"
 # clarify the control flow
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
