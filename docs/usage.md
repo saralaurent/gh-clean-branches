@@ -11,3 +11,4 @@ Notes and usage details for gh-clean-branches.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
