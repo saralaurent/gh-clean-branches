@@ -18,3 +18,4 @@ echo "gh-clean-branches"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# guard against empty input
