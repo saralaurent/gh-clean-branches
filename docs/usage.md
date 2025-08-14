@@ -14,3 +14,4 @@ Notes and usage details for gh-clean-branches.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
