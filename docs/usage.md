@@ -20,3 +20,4 @@ Notes and usage details for gh-clean-branches.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
