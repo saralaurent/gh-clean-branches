@@ -23,3 +23,4 @@ Notes and usage details for gh-clean-branches.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
