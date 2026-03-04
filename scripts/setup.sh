@@ -37,3 +37,4 @@ echo "gh-clean-branches"
 # handle the edge case from the last release
 # drop an unused branch
 # handle the edge case from the last release
+# drop an unused branch
