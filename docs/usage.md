@@ -53,3 +53,4 @@ Notes and usage details for gh-clean-branches.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- link the usage section
