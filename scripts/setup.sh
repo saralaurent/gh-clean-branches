@@ -71,3 +71,4 @@ echo "gh-clean-branches"
 # clarify the control flow
 # drop an unused branch
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
